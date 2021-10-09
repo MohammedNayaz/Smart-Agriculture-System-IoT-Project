@@ -1,0 +1,13 @@
+What is Arduino IDE used for?
+The Arduino Integrated Development Environment (IDE) is a cross-platform application (for Windows, macOS, Linux) that is written in functions from C and C++. It is used to write and upload programs to Arduino compatible boards, but also, with the help of third-party cores, other vendor development boards. Arduino is great for prototyping and learning. But most "real-world" applications (that is, beyond hobby and education) require a cost-effective, mass-producible solution.
+
+Arduino code is written in C++ with an addition of special methods and functions, which we'll mention later on. C++ is a human-readable programming language. When you create a 'sketch' (the name given to Arduino code files), it is processed and compiled to machine language.
+
+The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software.
+
+The main advantage of Arduino is its simple programming language. It's designed to make new user to get a glimpse and boost their confidence of programming. Originally, Arduino was designed for school kids to get a taste of programming and hardware design. It's suitable for making a demo model of any idea.
+The compilation process
+The arduino code is actually just plain old c without all the header part (the includes and all). when you press the 'compile' button, the IDE saves the current file as arduino.c in the 'lib/build' directory then it calls a makefile contained in the 'lib' directory.
+This makefile copies arduino.c as prog.c into 'lib/tmp' adding 'wiringlite.inc' as the beginning of it. this operation makes the arduino/wiring code into a proper c file (called prog.c).
+After this, it copies all the files in the 'core' directory into 'lib/tmp'. these files are the implementation of the various arduino/wiring commands adding to these files adds commands to the language. The core files are supported by pascal stang's procyon avr-lib that is contained in the 'lib/avrlib' directory
+At this point the code contained in lib/tmp is ready to be compiled with the c compiler contained in 'tools'. If the make operation is successful then you'll have prog.hex ready to be downloaded into the processor.
