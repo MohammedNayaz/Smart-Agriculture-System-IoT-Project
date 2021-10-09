@@ -1,0 +1,62 @@
+1.1 Introduction
+Tequed Labs Private Limited is a Private incorporates on 22 January 2018. It is classified as Non-govt Company and is registered at Registrar of Companies, Bangalore.
+	Tequed Labs is a research and development centre and educational institute based in Bangalore. They are focused on providing quality education on latest technologies and develop products which are of great need to society. They also involve in distribution and sales of latest electronics innovation products developed all over the globe to their customers. They run a project consultancy where they undertake various project from wide range of companies and assist them technically and build products and provide services to them. They are continuously involved in research about futuristic technologies and finding ways to simplify them for their clients.
+	They have developed a smart headgear which can give the location of accident when thee rier has experienced threshold force. This work has awarded state’s best innovation on IOT domain. This project was the world finalist in the international innovation challenge called MASTERPIECE in Dubai. It has been exhibited in NASSCOM Product Conclave and has received great appreciation from IT giant. This product has been patented bearing a patent number -201741034208.
+	They have developed a women’s safety device which sends the location of the woman in distress to the nearby police station. This work was highly appreciated by the police department and the market ready product is going to be launched soon. This product won the best ITC category project award in a state level exhibit and was exhibited at NASSCOM PRODUCT CONCLVE 2017.
+	Their other research work includes development of a device for blind which can recognize object and convert it into speech. The innovation has a lot of potential in helping the blind people.
+Their other products include: -
+•	Automation of production line and remote quality control monitoring system.
+•	Development of mobile app and website for sales of artistic and antique products.
+•	Development of an energy conservation system for paper machineries.
+•	Development of analytic tool for software-based vehicle condition analysis for resales.
+
+1.2 Vision
+      To be a world-class research and development organisation committed to enhancing stakeholder’s value.
+
+1.3 Mission
+      To build best products that are socially innovative with high-quality attributes and provide excellent education to all.
+
+1.4 Values
+•	Zeal to excel and zest for change.
+•	Integrity and fairness in all matters.
+•	Respect for dignity and potential of individuals.
+•	Strict adherence to commitments.
+•	Ensure speed of response.
+•	Faster learning, creativity and team-work.
+•	Loyalty and pride in the company.
+
+1.5 Quality Policy
+	In the quest to be world-class, TEQUED LABS pursues continual improvement in the quality of its products, services and performances leading to total customer satisfaction and business growth through dedication, commitment and team work of all employees.
+
+1.6 Development Sectors of TEQUES LABS
+•	Software Development
+•	Embedded System Design
+•	Application Development
+•	IOT based home automation System
+•	Education Services
+•	Product Research
+
+
+
+CHAPTER 2
+IOT department-TEQUED LABS
+2.1 Department vision: -
+To deliver integrated Internet of Things industry salutation for enterprises that offer speed market, security and scalability.
+
+2.2 Overview
+Harness the power of the Internet of Things
+Through their strategic relationship, Tequed Labs help enterprises harness the power of the Internet of Things (IoT) and advance analytics using world-class assets, capabilities and global resources of their combined organizations. Specifically, they draw on Tequed Lab’s transformative horizontal and industry-specific IoT solutions integrated with Microsoft Azure IoT Suite to provide their clients with turnkey IoT Solutions-as-a-Service, along with the enabling cloud infrastructure and software stack. According to Tequed Lab Research, executives believe the IoT will impact many areas of their business in the next three years.
+
+What do they do: -
+Their comprehensive solutions enable enterprises across a broad range of industries to realize the benefits of IoT through a proven, industrialized approach offering speed to market, security, and scalability.
+•	Connected Asset Management empowers enterprises across multiple industries including large industrial and manufacturing companies, oil and gas facilities, and OEMs-to proactively manage their assets, make quicker and move informed decisions and optimize business processes by unlocking=g digital content, specializes analytic and prescriptive actions and insights.
+•	Connected Mine helps mining companies connect operations from mine-to-market, maximize existing assets and investments and reduce operating costs.
+•	Connected Fleet enables enterprises to track an entire fleet in real-time, manage logistics, improve driving behaviours, increase operational efficiency and help maximize the total value of the fleet lifecycle through the power of telematics.
+•	Connected campus helps enterprises, hotels, hospitals and other large venues improve their facility management process by combining and integrating multiple functions into a single, integrated solution with preconfigured digital service, including management of office space and buildings, access and security, value added service (e.g., Taxis, parking), way finding, energy and sustainability as well as and health and safety.
+
+Tequed Labs is very keen in developing IOT products because they believe that IOT-enabled products will soon touch every aspect of our physical lives. They work with a thought process the today we already have sensor-equipped industrial equipment powered by AI.
+Medical devices that self-diagnose and send alters to their operators. Automobiles that engage new features and improve efficiency by updating their software. And very soon refrigerators that help you figure out what you could have for dinner and ovens that know how to cook it.
+They keep in mind that whatever your industry and whatever customers you serve, the key to succeeding in the new world of digital is getting your best ideas to market that connect you with the physical world. That means understanding how to engineer a connected enterprise built on human and business insights to identify opportunities for the great return and then built the robust architecture, processes, and governance models required to realise that return.
+Tequed Lab's IoT advisory approach, combined with digital and engineering experts, helps companies seamlessly bridge the physical and digital worlds to create connected solutions at scale.
+Their innovative applications and state-of-art mechanization tools leverage Internet of Things (IoT), Big Data, Cloud, mobility and Data Analytics to improve Agri- supply chain parameters, including milk production, milk procurement, cold chain, animal insurance and farmer payments. There IoT router and in-premise IoT controller acquire data via sensor that are embedded in Milking System, Animals wearable’s, Milk Chilling Equipment’s and Milk Procurement Peripherals, and transmit the same to Big Data Cloud Service Delivery Platform (SDP) where the suite of applications analyses and crunch the received data before disseminating the Analytics & Data Science outcome to various stakeholders over low-end and smart mobile devices. The patent pending hardware and software is designed to scale horizontally across other industry verticals.
+ 
