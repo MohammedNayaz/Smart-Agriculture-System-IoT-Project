@@ -1,0 +1,93 @@
+Develop a smart agriculture dashboard to measure parameters like moisture, ph. level, sunlight and other such parameters and create a dashboard to display all parameters and also buttons for controlling water pumps.
+
+In India, agriculture is the need of most of the Indians livelihood and it is one of the main sources of livelihood. Agriculture also has a major impact on economy of the country. The consumption of water increases day by day that may leads to the problem of water scarcity. Now a days not only for crops outdoor plants in home becoming quite difficult for them. 
+A.	Conventional Irrigation Methods 
+The conventional irrigation methods like overhead sprinklers, flood type feeding systems usually wet the lower leaves and stem of the plants. The entire soil surfaces saturated and often stays wet long after irrigation is completed. Such condition promotes infections by leaf mould fungi. On the contrary the drip or trickle irrigation is a type of modern irrigation 
+Water is supplied frequently, often daily to maintain favorable soil moisture condition and prevent moisture stress in the plant with proper use of water resources. 
+
+Drip irrigation saves water because only the plant’s root zone receives moisture. Little water is lost to deep percolation if the proper amount is applied. Drip irrigation is popular because it can increase yields and decrease both water requirements and labour. Drip irrigation requires about half of the water needed by sprinkler or surface irrigation. Lower operating pressures and flow rates result in reduced energy costs. A higher degree of water control is attainable. Plants can be supplied with more precise amounts of water. Disease and insect damage is reduced because plant foliage stays dry. Operating cost is usually reduced. Federations may continue during the irrigation process because rows between plants remain dry.
+ 
+B.	Problems in Traditional System
+ In the case of traditional irrigation system irrigation is done manually by farmers. Since, the water is irrigated directly in the land, plants under go high stress from variation in soil moisture, therefore plant appearance is reduced. The absence of automatic controlling of the system results in improper water control system. The major reason for these limitations is the growth of population which is increasing at a faster rate. At present there is emerging global water crisis where managing scarcity of water has become a serious job. This growth can be seen in countries which have shortage of water resources and are economically poor. So, this is the serious problem in Traditional Irrigation System. 
+
+Limitations of existing system: 
+• Physical work of farmer to control drip irrigation 
+• Wastage of water 
+• Wastage of time 
+• As water sits in irrigation channels malarial mosquitoes can breed. Technique that slowly applies small amounts of water to part of plant root zone.
+
+C.	Smart Irrigation System
+ Smart irrigation systems offer a variety of advantages over traditional irrigation systems. Smart irrigation systems can optimize water levels based on things such as soil moisture and weather predictions. This is done with wireless moisture sensors that communicate with the smart irrigation controls and help inform the system whether or not the landscape is in need of water. Additionally, the smart irrigation controlled receives local weather data that can help it determine when a landscape should be watered.
+
+ The Smart Irrigation System is an IOT based device which is capable of automating the irrigation process by analyzing the moisture of soil and the climate condition (like raining).Also the data of sensors will be displayed in graphical form on BOLT cloud page. The advantages of these smart irrigation systems are wide reaching. 
+
+The smart irrigation system will help you have better control of your landscape and irrigation needs as well as peace of mind that the smart system can make decisions independently if you are away. 
+
+You will save a significant amount of money on your water bills because through intelligent control and automation, your smart irrigation system will optimize resources so that everything gets what it needs without needless waste. Additionally, we have all seen many places in the country that have experienced droughts and we know that our water resources are precious. With smart irrigation systems we can be better stewards of our resources which is better for the environment. 
+
+The opportunity to save dramatically, have better control and be more eco-friendly while maintaining a lush and beautiful landscape are just a few of the advantages a smart irrigation system provides and would make a wonderful addition to any home. Smart Irrigation System uses valves to turn irrigation ON and OFF. These valves may be easily automated by using controllers and solenoids. Automating farm or nursery irrigation allows farmers to apply the right amount of water at the right time, regardless of the availability of labour to turn valves on and off.
+
+ Benefits of Smart Irrigation are
+•	Save water and money
+•	 Save your customers money
+•	Make maintaining yard easy and convenient
+•	Minimize the infrastructure to store and carry water 
+•	Protect the water resources for future generations 
+
+This paper proposes irrigation system which describes the combination of the IOT communication technology and cloud server to accomplish performance of system and data storage. The proposed system provides remote monitoring and automated controlling of irrigation with real time sensing of atmospheric and soil conditions like air temperature, humidity and soil moisture. IOT based irrigation improves farm production without any human interloping.
+
+
+
+
+3.2 Need of a Smart Agriculture System
+The Smart Irrigation System is an IOT based device which is capable of automating the irrigation process by analysing the moisture of soil and the climate condition (like raining).Also the data of sensors will be displayed in graphical form on BOLT cloud page. 
+In this project, we will command the Arduino/328p microcontroller through a webpage to control the motor (i.e., to start and stop the motor) and the rest of whole irrigation process will be automatically controlled by Arduino itself.
+The user has only to do is –Start the motor or if he desires it can switch off the motor by just a click only.
+Once the Motor pump has started- following automated condition will work
+1.	User can switch OFF the motor if he desires by a click on the web page.
+2.	The motor pump will automatically get switched OFF once the soil moisture sensor has reached the required threshold value.
+3.	If weather condition is such that it started raining, then the micro-controller will shut down the motor pump till raining. And after that it checks whether the soil moisture sensor has reached the threshold value or not. If it crosses the threshold value then motor pump will remain shut down otherwise it will start again automatically. This helps in saving water resource and electricity.
+4.	Also in case, when power supply gets cut-off and motor gets switched off. It will restart again automatically when there will be availability power supply, user will have not to worry about restarting the motor pump manually.
+5.	Also, data of various sensor like- moisture sensor, temperature sensor, humidity sensor will be displayed on BOLT cloud in graphical form but due to limitation of BOLT i have only displayed one sensor data (moisture sensor data).
+
+ 
+What is smart irrigation?
+The proposed system makes use of microcontroller ATMEGA328P on Arduino Uno platform and IOT which enables farmers to remotely monitor the status of water level in the soil by knowing the sensor values thereby, making the farmers work much easier as they can concentrate on other farm activities.
+Smart irrigation systems are a combination of an advanced technology of sprinklers with nozzles that improve coverage and irrigation controllers that are watering and water conservation systems that monitor moisture-related c conditions on your property and automatically adjust watering to optimal levels.
+     This device monitors the weather, soil conditions, evaporation, and plant H20 use. By monitoring these details, the system is able to automatically sense and adjust the watering schedule to the exact conditions needed on the site.
+Why we need smart irrigation?
+                 Earlier India enjoyed abundant water resources. But now population growth and overexploitation has led to a situation where there is demand for water. From the survey we can clearly see how the water percentage is reducing year by year from 1960 to present. If the rate continues it leads to water scarcity. So there is an emergency to conserve water. The reason behind this shortage of water is using traditional system of irrigation During traditional system requirement of water to plants is not monitored properly When the soil is moist enough water is still provided to plants. This excess amount of water is not absorbed by the plants and is wasted thus. To monitor the water requirement of the plants a system is needed. Implementing smart irrigation helps to decrease the loss of water caused by using traditional system.
+Smart irrigation for smart cities
+ As discussed in the above lines’ urbanization leas to the decrease of greenery so to balance the greenery we can use the smart irrigation concept. Smart irrigation was earlier used for agriculture purpose as the Indian agriculture was dependent on monsoons which does not have sufficient source of water this automatic irrigation system was implemented to provide water to plants according to their moisture level and soil type. By using this smart irrigation concept, we can bring back the greenery which is going to be vanish because of the rapid urbanization. It was proposed to help the farmers to get the good yield. Now we can use this concept in the cities as well as to have the environmental protection. As smart city means everything done in a smarter way this smart irrigation also done with the smart way using the sensors of the required type which can water the plant at a required time resulting in the healthy growth. Bottom of Form According to National Geographic, the U.S. could be as much as 5.7 °F warmer by 2050. This increase in temperature will lead to elevated levels of evaporation and ultimately result in l.
+3.3 How can we do advancement in agriculture using IOT
+Monitoring of climate conditions
+Probably the most popular smart agriculture gadgets are weather stations, combining various smart farming sensors. Located across the field, they collect various data from the environment and send it to the cloud. The provided measurements can be used to map the climate conditions, choose the appropriate crops, and take the required measures to improve their capacity (i.e. precision farming).
+Some examples of such agriculture IOT devices are allMETEO, Smart Elements, and Pycno.
+Some examples of such agriculture IOT devices are allMETEO, Smart Elements, and Pycno.
+Greenhouse automation
+Typically, farmers use manual intervention to control the greenhouse environment. The use of IOT sensors enables them to get accurate real-time information on greenhouse conditions such as lighting, temperature, soil condition, and humidity. 
+In addition to sourcing environmental data, weather stations can automatically adjust the conditions to match the given parameters. Specifically, greenhouse automation systems use a similar principle. For instance, Farm app and Grow link are also IOT agriculture products offering such capabilities among others. GreenIQ is also an interesting product that uses smart agriculture sensors. It is a smart sprinklers controller that allows you to manage your irrigation and lighting systems.
+ 
+Crop management
+One more type of IOT product in agriculture and another element of precision farming are crop management devices. Just like weather stations, they should be placed in the field to collect data Specific to crop farming; from temperature and precipitation to leaf water potential and overall crop health. Thus, you can monitor your crop growth and any anomalies to effectively prevent any diseases or infestations that can harm your yield. Arable and Semis can serve as good representations of how this use case can be applied in real life.
+Cattle monitoring and management
+Just like crop monitoring, there are IOT agriculture sensors that can be attached to the animals on a farm to monitor their health and log performance. Livestock tracking and monitoring help collect data on stock health, well-being, and physical location.
+For example, such sensors can identify sick animals so that farmers can separate them from the herd and avoid contamination. Using drones for real-time cattle tracking also helps farmers reduce staffing expenses. This works similarly to IOT devices for pet care.
+For example, SCR by All flex and Cowlar use smart agriculture sensors (collar tags) to deliver temperature, health, activity, and nutrition insights on each individual cow as well as collective information about the herd.
+Precision farming
+Also known as precision agriculture, precision farming is all about efficiency and making accurate data-driven decisions. It’s also one of the most widespread and effective applications of IOT in agriculture.
+By using IOT sensors, farmers can collect a vast array of metrics on every facet of the field microclimate and ecosystem: lighting, temperature, soil condition, humidity, CO2 levels, and pest infections. This data enables farmers to estimate optimal amounts of water, fertilizers, and pesticides that their crops need, reduce expenses, and raise better and healthier crops.
+For example, CropX builds IOT soil sensors that measure soil moisture, temperature, and electric conductivity enabling farmers to approach each crop’s unique needs individually. Combined with geospatial data, this technology helps create precise soil maps for each field. Motive offers similar services, helping farmers reduce waste, improve yields, and increase farm sustainability.
+Agricultural drones
+Perhaps one of the most promising aggrotech advancements is the use of agricultural drones in smart farming. Also known as UAVs (unmanned aerial vehicles), drones are better equipped than airplanes and satellites to collect agricultural data. Apart from surveillance capabilities, drones can also perform a vast number of tasks that previously required human labour: planting crops, fighting pests and infections, agriculture spraying, crop monitoring, etc. Drone Seed, for example, builds drones for planting trees in deforested areas. The use of such drones is 6 times more effective than human labour. A Sense Fly agriculture drone eBee SQ uses multispectral image analyses to estimate the health of crops and comes at an affordable price.
+Predictive analytics for smart farming
+Precision agriculture and predictive data analytics go hand in hand. While IoT and smart sensor technology are a goldmine for highly relevant real-time data, the use of data analytics helps farmers make sense of it and come up with important predictions: crop harvesting time, the risks of diseases and infestations, yield volume, etc. Data analytics tools help make farming, which is inherently highly dependent on weather conditions, more manageable, and predictable.
+For example, the Crop Performance platform helps farmers access the volume and quality of yields in advance, as well as their vulnerability to unfavourable weather conditions, such as floods and drought. It also enables farmers to optimize the supply of water and nutrients for each crop and even select yield traits to improve quality.
+Applied in agriculture, solutions like Soil Scout enable farmers to save up to 50% irrigation water, reduce the loss of fertilizers caused by overwatering, and deliver actionable insights regardless of season or weather conditions.
+End-to-end farm management systems
+A more complex approach to IOT products in agriculture can be represented by the so-called farm productivity management systems. They usually include a number of agriculture IOT devices and sensors, installed on the premises as well as a powerful dashboard with analytical capabilities and in-built accounting/reporting features.
+This offers remote farm monitoring capabilities and allows you to streamline most of the business operations. Similar solutions are represented by Farm Logs and Cropio.
+In addition to the listed IOT agriculture use cases, some prominent opportunities include vehicle tracking (or even automation), storage management, logistics, etc.
+3.4 Progress in adopting of Smart Agriculture world wide
+Below table shows the growth of IoT based adoption in Agriculture Sector from year       2000-2016 and forecast of year 2035-2050
+ 
