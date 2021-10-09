@@ -1,0 +1,93 @@
+Hardware Tools
+1. NodeMCU
+
+NodeMCU is an open-source Lua based firmware and development board specially targeted for IoT based Applications. It includes firmware that runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which is based on the ESP-12 module.
+NodeMCU ESP8266 Specifications & Features
+•	Microcontroller: Tensilica 32-bit RISC CPU Xtensa LX106
+•	Operating Voltage: 3.3V
+•	Input Voltage: 7-12V
+•	Digital I/O Pins (DIO): 16
+•	Analog Input Pins (ADC): 1
+•	UARTs: 1
+•	SPIs: 1
+•	I2Cs: 1
+•	Flash Memory: 4 MB
+•	SRAM: 64 KB
+•	Clock Speed: 80 MHz
+•	USB-TTL based on CP2102 is included onboard, Enabling Plug n Play
+•	PCB Antenna
+•	Small Sized module to fit smartly inside your IoT projects
+•	The NodeMCU ESP8266 development board comes with the ESP-12E module containing the ESP8266 chip having Tensilica Xtensa 32-bit LX106 RISC microprocessor. This microprocessor supports RTOS and operates at 80MHz to 160 MHz adjustable clock frequency. NodeMCU has 128 KB RAM and 4MB of Flash memory to store data and programs. Its high processing power with in-built Wi-Fi / Bluetooth and Deep Sleep Operating features make it ideal for IoT projects.
+•	NodeMCU can be powered using a Micro USB jack and VIN pin (External Supply Pin). It supports UART, SPI, and I2C interface.
+
+ 
+Programming NodeMCU ESP8266 with Arduino IDE
+The NodeMCU Development Board can be easily programmed with Arduino IDE since it is easy to use. Programming NodeMCU with the Arduino IDE will hardly take 5-10 minutes. All you need is the Arduino IDE, a USB cable and the NodeMCU board itself. You can check this Getting Started Tutorial for NodeMCU to prepare your Arduino IDE for NodeMCU.
+Applications 
+•	Prototyping of IoT devices
+•	Low power battery operated applications
+•	Network projects
+•	Projects requiring multiple I/O interfaces with Wi-Fi and Bluetooth functionalities
+
+Soil Moisture Sensor
+
+•	Soil moisture sensors do not measure water in the soil directly. Instead, they measure changes in some other soil property that is related to water content in a predictable way. For a soil sensor to work, no matter the type, it must make contact with the soil.
+•	The Soil Moisture Sensor is used to measure the volumetric water content of soil. This makes it ideal for performing experiments in courses such as soil science, agricultural science, environmental science, horticulture, botany, and biology.
+•	A small charge is placed on the electrodes and electrical resistance through the sensor is measured. As water is used by plants or as the soil moisture decreases, water is drawn from the sensor and resistance increases.
+•	Soil moisture sensors are used in numerous research applications, e.g. in agricultural science and horticulture including irrigation planning, climate research, or environmental science including solute transport studies and as auxiliary sensors for soil respiration measurements.
+•	The advantage to these probes is that they can measure moisture accurately in any type of soil and give the percent moisture content. Unlike other sensors TDRs reading show how much water is in the soil with higher readings indicating more moisture.
+•	The Soil Moisture Sensor is used to measure the volumetric water content of soil. This makes it ideal for performing experiments in courses such as soil science, agricultural science, environmental science, horticulture, botany, and biology.
+
+DHT11 Temperature-Humidity Sensor
+
+•	The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed). 
+•	Its fairly simple to use, but requires careful timing to grab data. You can get new data from it once every 2 seconds, so when using the library from Adafruit, sensor readings can be up to 2 seconds old.
+•	Comes with a 4.7K or 10K resistor, which you will want to use as a pullup from the data pin to VCC.
+Specifications:
+•	3 to 5V power and I/O
+•	2.5mA max current use during conversion (while requesting data)
+•	Good for 20-80% humidity readings with 5% accuracy
+•	Good for 0-50 °C temperature readings +-2 °C accuracy
+•	No more than 1 Hz sampling rate (once every second)
+•	Body size 15.5mm x 12mm x 5.5mm
+•	4 pins with 0.1" spacing
+•	Adafruit Learning Documentation for DHTxx Sensors
+•	RoHS compliant
+
+Solenoid Water Valve
+
+•	A solenoid valve is an electrically controlled valve. The valve features a solenoid, which is an electric coil with a movable ferromagnetic core (plunger) in its center. In the rest position, the plunger closes off a small orifice. An electric current through the coil creates a magnetic field.
+•	Solenoid valves are control units which, when electrically energized or de-energized, either shut off or allow fluid flow. The actuator takes the form of an electromagnet. When energized, a magnetic field builds up which pulls a plunger or pivoted armature against the action of a spring.
+•	Solenoid valves are control units which, when electrically energized or de-energized, either shut off or allow fluid flow. The actuator takes the form of an electromagnet. When energized, a magnetic field builds up which pulls a plunger or pivoted armature against the action of a spring.
+•	Solenoid valve function involves either opening or closing an orifice in a valve body, which either allows or prevents flow through the valve. A plunger opens or closes the orifice by raising or lowering within a sleeve tube by energizing the coil. Solenoid valves consist of a coil, plunger and sleeve assembly
+•	The advantages of the solenoid-pilot design are high flow capability, reliability and low power consumption. The disadvantage is that it requires a minimum pilot pressure to shift the valve plunger. The advantage of a direct acting solenoid is that there is no minimum pressure requirement.
+•	Solenoid valves help to control the flow of liquid or gas. These valves are incorporated into the equipment so that the equipment can be used safely and efficiently. What a solenoid valve does is use a plunger to open or close the valve, either allowing the liquid to flow through or sealing it off without any leaks.
+
+
+Breadboard
+
+•	A breadboard is used to build and test circuits quickly before finalizing any circuit design. The breadboard has many holes into which circuit components like ICs and resistors can be inserted.
+•	A breadboard is a rectangular plastic board with a bunch of tiny holes in it. These holes let you easily insert electronic components to prototype (meaning to build and test an early version of) an electronic circuit, like this one with a battery, switch, resistor, and an LED (light-emitting diode).
+•	The tops of the metal rows have little clips that hide under the plastic holes. Each metal strip and socket is spaced with a standard pitch of 0.1" (2.54mm). These clips allow you to stick a wire or the leg of a component into the exposed holes on a breadboard, which then hold it in place.
+•	There are two major types of breadboards; these are solder and solderless boards. Solder boards are boards you have to solder components onto (per the name). These are most of your standard circuit boards, and if you flip one over you'll notice that all of the connections are soldered to the board itself.
+Features and Specifications
+ 
+•	2 Distribution Strips, 200 tie-points.
+•	630 tie-points in IC/ circuit areas.
+•	ABS plastic with color legend.
+•	Dimension: 6.5*4.4*0.3 inch.
+•	Hole/Pitch Style: Square wire holes (2.54mm)
+•	ABS heat Distortion Temperature: 84° C (183° F)
+•	Rating: 300/3 to 5Amps.
+•	Insulation Resistance : 500MΩ / DC500V. 
+
+Jumpers
+
+•	Jumper wires are simply wires that have connector pins at each end, allowing them to be used to connect two points to each other without soldering. Jumper wires are typically used with breadboards and other prototyping tools in order to make it easy to change a circuit as needed.
+•	When you set a jumper, you place a plug on the prongs that completes a contact. In effect, the jumper acts as a switch by closing (or opening) an electrical circuit. Jumpers can be added or removed to change the function or performance of a PC component. A group of jumpers is sometimes called a jumper block .
+•	A jump wire (also known as jumper, jumper wire, jumper cable, DuPont wire or cable) is an electrical wire, or group of them in a cable, with a connector or pin at each end (or sometimes without them – simply "tinned"), which is normally used to interconnect the components of a breadboard or other prototype or test 
+•	Jumper wires are used for making connections between items on your breadboard and your Arduino's header pins. Use them to wire up all your circuits! Buy jumper wires from Amazon, SparkFun, Adafruit, or Newark.
+
+Types of Jumper Wires
+•	Jumper wires typically come in three versions: male-to-male, male-to-female and female-to-female. The difference between each is in the end point of the wire. Male ends have a pin protruding and can plug into things, while female ends do not and are used to plug things into.
+
