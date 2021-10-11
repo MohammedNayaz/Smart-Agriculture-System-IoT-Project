@@ -99,9 +99,13 @@ Steps	Task Performed	Demonstration
 
 Circuit Connection Diagram
 
+![image](https://user-images.githubusercontent.com/64147100/136785914-ee09a266-e90f-41e7-aa2f-d7b64d46ee48.png)
 
  
 Final Connection Setup
+
+![image](https://user-images.githubusercontent.com/64147100/136785975-70d77e3e-8646-4e59-a8bb-c194cdcd6bf3.png)
+
 
 Connection Procedure:
 1.	Take a breadboard, NodeMCU, DHT11 temperature & Humidity sensor, Soil Moisture sensor, solenoid valve, 9volt battery and jumper wires.
